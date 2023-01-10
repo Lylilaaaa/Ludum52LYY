@@ -1,0 +1,4 @@
+repository "Harvester@projekt-harvester@cloud.cn"
+  path "/"
+    smartbranch "/main" 
+     
